@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667334529 source:c:\c\25 days of c programming challenge\conversion from cartesian coordinates to polar coordinates\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
